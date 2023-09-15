@@ -1,0 +1,78 @@
+var jsonData = {
+    "total": 10,
+    "list": [
+        {
+            "title": 1,
+            "desc": "War-world",
+            "img": "images/cert/start.png",
+	    "url": "video/war.mp4",
+            "fun1": "点播",
+            "fun2": "播放" 
+        },
+         {
+            "title": 2,
+            "desc": "The Fantastic Flying Books...",
+            "img": "images/cert/start.png",
+	    "url": "video/feishu.mp4",
+            "fun1": "点播",
+            "fun2": "播放"
+        },
+	 {
+            "title": 3,
+            "desc": "Piper",
+            "img": "images/cert/start.png",
+	    "url": "video/guan.mp4",
+            "fun1": "点播",
+            "fun2": "播放"
+        },
+	 {
+            "title": 4,
+            "desc": "Bao",
+            "img": "images/cert/start.png",
+	    "url": "video/bao.mp4",
+            "fun1": "点播",
+            "fun2": "播放"
+        },
+	 {
+            "title": 5,
+            "desc": "Dear Basketball",
+            "img": "images/cert/start.png",
+	    "url": "video/lanqiou.mp4",
+            "fun1": "点播",
+            "fun2": "播放"
+        },
+	 {
+            "title": 6,
+            "desc": "The Lost Thing",
+            "img": "images/cert/start.png",
+	    "url": "video/shiwuzhaoling.mp4",
+            "fun1": "点播",
+            "fun2": "播放"
+        },
+	{
+            "title": 6,
+            "desc": "MyLove",
+            "img": "images/cert/start.png",
+	    "url": "video/love.mp4",
+            "fun1": "点播",
+            "fun2": "播放"
+        },
+	
+	 {
+            "title": 8,
+            "desc": "Paperman",
+            "img": "images/cert/start.png",
+	    "url": "video/zhiren.mp4",
+            "fun1": "点播",
+            "fun2": "播放"
+       },
+	 {
+            "title": 99,
+            "desc": "You Know",
+            "img": "images/cert/start.png",
+	    "url": "video/zhiren.mp4",
+            "fun1": "点播",
+            "fun2": "播放"
+        } 
+    ]
+}
