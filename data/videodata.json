@@ -5,74 +5,115 @@ var jsonData = {
             "title": 1,
             "desc": "War-world",
             "img": "images/cert/start.png",
-	    "url": "video/war.mp4",
-            "fun1": "点播",
-            "fun2": "播放" 
+	    "url": "https://vd3.bdstatic.com/mda-pie6ra5p23dra5f4/720p/h264/1694753424004784742/mda-pie6ra5p23dra5f4.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1694842168-0-0-f09f0069828f8b24a1f5b2f0d2450990&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=1768856198&vid=4820135564060518991&klogid=1768856198&abtest=112954_1",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁" 
         },
          {
             "title": 2,
             "desc": "The Fantastic Flying Books...",
             "img": "images/cert/start.png",
-	    "url": "video/feishu.mp4",
-            "fun1": "点播",
-            "fun2": "播放"
+	    "url": "http://flv0.bn.netease.com/c71ba189f91a7908dc87669c1ab53282c518a47a33bb376d689cb3aabed114b6a6f74c876a1e91e1b1de7f3bf09aedfae4cd74b686134a7a3fdf62a2f8d9dd89d994431fcf9dab46594e0ba456e34ed3f74cc52e13a70eb2f8c3b92e827cc7878ff724e937bf0c8bf529c20ca31f2fc74814f3c9c1a02166.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
         },
 	 {
             "title": 3,
             "desc": "Piper",
             "img": "images/cert/start.png",
-	    "url": "video/guan.mp4",
-            "fun1": "点播",
-            "fun2": "播放"
+	    "url": "http://flv0.bn.netease.com/c71ba189f91a7908dc87669c1ab5328286b34832253518c4097fcfc25b9c877087c9ecc1800b1025842a98251b3b90885b7f367d5ac42e2c3df4f9d767800d895ad82eea6fc95ab9cf7afcbcffbfa06a6a69254be385599eafffbc93c3c5fd54eed6467019e623ca68dd7e051dd6328327e4b2832cea9213.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
         },
 	 {
             "title": 4,
             "desc": "Bao",
             "img": "images/cert/start.png",
-	    "url": "video/bao.mp4",
-            "fun1": "点播",
-            "fun2": "播放"
+	    "url": "http://flv0.bn.netease.com/c71ba189f91a7908dc87669c1ab53282e2ab0661afacf0935a1ab7b599c5ba8525f2577f0955c283ee1b2dfde48a73b0ccfd9132d50f9d7eb9d751b20b65ea280031a19f4d21c3e9dda29cc8ddb949edffb4097b446f3d94dd88a69585ea90432d8cfd54635f6e61ac4c43a6dcf9da546e00bc68b6c5a8f4.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
         },
 	 {
             "title": 5,
             "desc": "Dear Basketball",
             "img": "images/cert/start.png",
-	    "url": "video/lanqiou.mp4",
-            "fun1": "点播",
-            "fun2": "播放"
+	    "url": "http://flv0.bn.netease.com/c71ba189f91a7908dc87669c1ab5328260aee86659d2515a9acb514f08eb1795d05a4545b557bd1bbd8c719bcc6f4dcf80bf9a3ac223b688d0ac0a6bce178c17ba835eab8f794c91b999e63ef104a0717c52d787a5ddfb95bd9d7e436b4811b1fc5fded9a7f172b0fe11b04bca4ae6b3545a83f0fc79d23b.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
         },
 	 {
             "title": 6,
             "desc": "The Lost Thing",
             "img": "images/cert/start.png",
-	    "url": "video/shiwuzhaoling.mp4",
-            "fun1": "点播",
-            "fun2": "播放"
+	    "url": "http://flv0.bn.netease.com/c71ba189f91a7908dc87669c1ab532824ac36d18db1372f480c577c1099669d90f90c1de9112936178bb6f400613f78a5b4e9095d014b58fc435625207f441c3a722c4c40f8e04adfe4fe8849bf62afd4a1fc65f0248238c17ddd9b96249a3ddacc59a99bc7b6c66f693da6ef65f76a876e640caf3f9d59d.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
         },
 	{
             "title": 6,
             "desc": "MyLove",
             "img": "images/cert/start.png",
-	    "url": "video/love.mp4",
-            "fun1": "点播",
-            "fun2": "播放"
+	    "url": "http://flv0.bn.netease.com/c71ba189f91a7908dc87669c1ab5328211f08a135f7a1cc7ba349289c14b3a3def269959a17472a34f6022285d81f3ebab146f79c826c5a342c175377b78eaec8ad0ef01bc39ef482acda6843ee70b81cbf7c0a7db6db97b75181c9f84a2e88030a8572be7b13da6d2d5cc2b949421f01fbd0e4ca72e3f04.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
         },
 	
 	 {
+            "title": 7,
+            "desc": "Paperman",
+            "img": "images/cert/start.png",
+	    "url": "http://flv0.bn.netease.com/c71ba189f91a7908dc87669c1ab53282987949a1bd8e3c89bcd4a3edfd07a6ed6a037749fba240c289da06fc16769529e4addc4a5e1b27a1ce8346463562009b0416c317caf7ec2c4c83b3c2baa7a2b61d36bfd6e9b8314414a8a0a68f75af64e756891bc86ded7fbad035a02fe9536a5c70be8c41a2ef5f.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
+       },
+       {
             "title": 8,
             "desc": "Paperman",
             "img": "images/cert/start.png",
-	    "url": "video/zhiren.mp4",
-            "fun1": "点播",
-            "fun2": "播放"
+	    "url": "http://flv0.bn.netease.com/c71ba189f91a7908dc87669c1ab53282987949a1bd8e3c89bcd4a3edfd07a6ed6a037749fba240c289da06fc16769529e4addc4a5e1b27a1ce8346463562009b0416c317caf7ec2c4c83b3c2baa7a2b61d36bfd6e9b8314414a8a0a68f75af64e756891bc86ded7fbad035a02fe9536a5c70be8c41a2ef5f.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
        },
+	 {
+            "title": 9,
+            "desc": "video",
+            "img": "images/cert/start.png",
+	    "url": "https://vd4.bdstatic.com/mda-ng2pjw938zhdtr2g/sc/cae_h264/1656897590483469806/mda-ng2pjw938zhdtr2g.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1694842482-0-0-f353919e3ac72a6dd247f1b1f08b6765&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=2082620558&vid=12300671150043873662&klogid=2082620558&abtest=112954_1",
+	    "fun1": "鐐规挱",
+            "fun2": "鎾斁"
+       },
+	 {
+            "title": 10,
+            "desc": "Father",
+            "img": "images/cert/start.png",
+	    "url": "https://vd2.bdstatic.com/mda-mmufasejyctrnhwj/sc/cae_h264_nowatermark/1641025898277712390/mda-mmufasejyctrnhwj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1694842591-0-0-4df9e46fc4606b97d5c67dd9467e96cf&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=2191144162&vid=5771199817431654659&klogid=2191144162&abtest=112954_1",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
+       },
+	 {
+            "title": 11,
+            "desc": "Bikly",
+            "img": "images/cert/start.png",
+	    "url": "https://vd2.bdstatic.com/mda-pie612qex8secc9t/720p/h264/1694752016431105472/mda-pie612qex8secc9t.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1694843015-0-0-7a72dc6b685dfa92679d9fe5e6165511&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=2615819944&vid=7387763355390910170&klogid=2615819944&abtest=112954_1",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
+       },
+	 {
+            "title": 12,
+            "desc": "Paperman",
+            "img": "images/cert/start.png",
+	    "url": "https://vd4.bdstatic.com/mda-nktehzf5gyra6u08/sc/cae_h264/1669642321346075933/mda-nktehzf5gyra6u08.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1694842942-0-0-b4857c135f42d9cce14e86255b82077e&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=2542559083&vid=9505216851341330602&klogid=2542559083&abtest=112954_1",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
+       },
+	 
 	 {
             "title": 99,
             "desc": "You Know",
             "img": "images/cert/start.png",
-	    "url": "video/zhiren.mp4",
-            "fun1": "点播",
-            "fun2": "播放"
+	    "url": "https://flv3.bn.netease.com/30dcfc07ab0aa8d54e89d73158ce3d26a84882f7818ff05f9f79d8e717407835483e1d6ef2c6128f1f9c6e2435e1ab402e39bb93341f3a1dda14bf8c5d635440aa25ed3d1cb78df519023aa0bbd9f92b898c052530a3eec78bb7e4ce4dc5c3a3acc35b2ed538624535425e0703a051586c06b58f29129035.mp4",
+            "fun1": "鐐规挱",
+            "fun2": "鎾斁"
         } 
     ]
 }
